@@ -131,7 +131,7 @@ export default function Clue3Screen() {
     // Step 5: Caesar cipher tool link
     { 
       type: 'link',
-      content: "https://cryptii.com/pipes/caesar-cipher"
+      content: "https://www.thewordfinder.com/caesar-cipher-solver/"
     },
     // Step 6: Question about the clue's meaning
     { 
