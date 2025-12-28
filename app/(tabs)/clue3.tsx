@@ -368,7 +368,7 @@ export default function Clue3Screen() {
               </TouchableOpacity>
               
               <ThemedText style={styles.linkNote}>
-                Note: The "7" at the top suggests starting with shift 7.
+                Note: Try all the shifts to see what fits.
               </ThemedText>
             </View>
           )}
