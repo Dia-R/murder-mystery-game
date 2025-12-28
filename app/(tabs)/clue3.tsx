@@ -121,7 +121,7 @@ export default function Clue3Screen() {
     // Step 3: Display the cipher text
     { 
       type: 'cipher',
-      content: `7 \n\nAv tf zvu,\n\nPa pz uva lhzf av spcl vbazpkl tf wyvaljapvu, pz pa? Iba P rllw tf wyvtpzlz. Aol Ilsmvyk uhtl dpss il ylabyulk av fvb hz svun hz fvb rllw bw fvby nvvk dvyr.\n\nIlmvyl fvb kpzhwwvpua tl, P dvukly, hyl fvb wylwhylk av spcl sprl fvby jhnlk ipyk?\n\nSvyk Ilsmvyk.`
+      content: `\nAv tf zvu,\n\nPa pz uva lhzf av spcl vbazpkl tf wyvaljapvu, pz pa? Iba P rllw tf wyvtpzlz. Aol Ilsmvyk uhtl dpss il ylabyulk av fvb hz svun hz fvb rllw bw fvby nvvk dvyr.\n\nIlmvyl fvb kpzhwwvpua tl, P dvukly, hyl fvb wylwhylk av spcl sprl fvby jhnlk ipyk?\n\nSvyk Ilsmvyk.`
     },
     // Step 4: Observation about the cipher
     { 
